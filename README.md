@@ -10,3 +10,12 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
+## Stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=sanobar-rahaman&theme=dracula&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+
+
