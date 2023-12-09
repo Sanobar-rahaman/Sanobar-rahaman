@@ -1,6 +1,6 @@
 
 
-![cover](https://github.com/Sanobar-rahaman/Sanobar-rahaman/blob/main/1694454852510.jpeg)
+![cover](https://github.com/Sanobar-rahaman/Sanobar-rahaman/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png)
 
 ## Skils
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,mongodb)](https://skillicons.dev)
