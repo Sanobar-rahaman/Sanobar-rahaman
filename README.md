@@ -2,7 +2,7 @@
 ![cover](https://github.com/Sanobar-rahaman/Sanobar-rahaman/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 
 ## Skils
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,javascript,mongodb,vite,firebase)](https://skillicons.dev)
 
 
 ## contact
