@@ -45,7 +45,42 @@ Some of the functionality and feature of this website are:
 * Secure login with JWT tokens.
 * Token storage and protection for private APIs.
 
-[live link](https://hostel-management-system-c660c.web.app/)
+Live Link:[hostel portal](https://hostel-management-system-c660c.web.app/)
+
+2. ## job Portal
+Mern based  a job portal where you can find  your jobs and you can apply for jobs.Here users can search for his/her jobs.
+
+Some of the functionality and feature of this website are:
+there is no admin role in this project 
+###  users Role
+* users can search for jobs 
+* users can see the job details and aply for jobs
+* users can add new jobs
+* users can see his/her applyed jobs
+* users can cancel applyed jobs 
+### User Authentication:
+* Registration with essential details.
+* Login with email and password
+### Public Pages:
+* Home page with navigation links.
+* anyone can make himself an users
+## Responsive Design:
+* Ensures the website is accessible on various devices.
+
+### JWT Implementation:
+* Secure login with JWT tokens.
+* Token storage and protection for private APIs.
+
+Live Link:[job portal](https://clinquant-profiterole-97510f.netlify.app/)
+
+3. ## Fahion house 
+Mern based fashios related website where you can find different type of clothes from differet brand .You can  but clothes from this website
+
+Live Link:[Fashion house](https://fashion-clint.web.app/)
+
+
+
+
 ## Stats
 
 
