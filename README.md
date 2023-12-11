@@ -14,6 +14,8 @@ Dedicated and skilled MERN Stack Developer with a passion for crafting efficient
 
 ## contact
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanobar-rahaman-01a393238/)
+
+###Email
 Email: [sanobar256@gmail.com]
 
 ## Recent Project
