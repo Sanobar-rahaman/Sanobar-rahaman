@@ -1,6 +1,14 @@
 
 ![cover](https://github.com/Sanobar-rahaman/Sanobar-rahaman/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 
+## Objective
+Dedicated and skilled MERN Stack Developer with a passion for crafting efficient and scalable web applications. Committed to staying current with emerging technologies and industry best practices, my goal is to leverage my technical expertise to contribute innovative solutions and drive the success of dynamic projects. Seeking a challenging position where I can apply my full-stack development skills to create robust and user-friendly applications while continuously expanding my knowledge in a collaborative and growth-oriented environment.
+
+## Present summary
+* In last 6 month I lernd javascript,react,tailwind,mongodb,node js
+* I’m looking for an internship / full-time job as a front end developer
+* I finished my gradution based on computer science and engineering on Bangladesh Army International University of Science and Technology(BAiust) 
+
 ## Skils
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,javascript,mongodb,vite,firebase)](https://skillicons.dev)
 
@@ -45,7 +53,7 @@ Some of the functionality and feature of this website are:
 * Secure login with JWT tokens.
 * Token storage and protection for private APIs.
 
-Live Link:[hostel portal](https://hostel-management-system-c660c.web.app/)
+Live Link: [hostel portal](https://hostel-management-system-c660c.web.app/)
 
 2. ## job Portal
 Mern based  a job portal where you can find  your jobs and you can apply for jobs.Here users can search for his/her jobs.
