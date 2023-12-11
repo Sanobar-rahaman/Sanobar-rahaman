@@ -9,13 +9,12 @@ Dedicated and skilled MERN Stack Developer with a passion for crafting efficient
 * I’m looking for an internship / full-time job as a front end developer
 * I finished my gradution based on computer science and engineering on Bangladesh Army International University of Science and Technology(BAiust) 
 
-## Skils
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,javascript,mongodb,vite,firebase)](https://skillicons.dev)
+
 
 
 ## contact
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanobar-rahaman-01a393238/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+Email: [sanobar256@gmail.com]
 
 ## Recent Project
 
@@ -86,7 +85,8 @@ Mern based fashios related website where you can find different type of clothes 
 
 Live Link:[Fashion house](https://fashion-clint.web.app/)
 
-
+## Skils
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,javascript,mongodb,vite,firebase)](https://skillicons.dev)
 
 
 ## Stats
