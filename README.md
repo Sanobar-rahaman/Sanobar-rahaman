@@ -34,6 +34,18 @@ Some of the functionality and feature of this website are:
 * user Dashboard
 * Admin Dashboard
 
+## Public Pages:
+* Home page with navigation links.
+* anyone can make himself an users
+
+## Responsive Design:
+* Ensures the website is accessible on various devices.
+
+## JWT Implementation:
+* Secure login with JWT tokens.
+* Token storage and protection for private APIs.
+
+[live link](https://hostel-management-system-c660c.web.app/)
 ## Stats
 
 
